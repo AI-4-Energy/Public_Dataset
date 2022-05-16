@@ -1,9 +1,50 @@
 # Public_Dataset
 Here we will store information on the public Datasets for Consumption and Production. 
 
+
 Uppsala - Energiportal
+---------------------------------------------------------------------------------------------------------------------------------------------------
 This website has both, real time (API key necesarry?) abd historical data from public PVs in Uppsala. Information on the houses etc. are here: https://energiportalregionuppsala.se/about. In total they promote 24 PV-Panels there. Furthermore they have historical datasets publicly available: https://energiportalregionuppsala.se/open-data. 
 
 They have either: separated information on each house / facility from 2019 - 2021, or combined information. Sadly they only provide the production side and NOT the consumption side. 
+
+The combined dataset is divided into two CSV Files. The first one described the PV panels in detail and which ID corresponds to them:
+![Uppsala_All_Production_Sides](https://user-images.githubusercontent.com/84837075/168606489-c3f770fe-5720-4a6f-967a-92f3b2ec6bff.png)
+
+The second one is a combined view of the production in KW: 
+![Uppsala_Combined_Data](https://user-images.githubusercontent.com/84837075/168606960-0163fcbd-deec-4938-99b6-18343487ec7a.png)
+
+
+With this we have a total of 17 Production Sides! 
+
+
+Additionally this site gives, as mentioned, singular information on for example Uppsala Tiunda School. In this case it provides the consumtion (15 Minutes interval): https://tinyurl.com/TiundaProduction and production (1 Hour Interval): https://tinyurl.com/TiundaConsumption.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+Consumption of 69 Houses in Karlstad from Andreas T.: 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+It only contains normal households and not facilities like schools etc.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Svensksolenergi
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+They provide PV Production from gigantic PV Parks (GWh), which is not applicable for our usecase: https://svensksolenergi.se/statistik/solkraft/.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+Open Power System Data
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+OPSD provides also two kinds of data. Firstly country-wise, which is not applicable. Secondy, they also have information on 11 Households in southern Germany in an hourly resolution: https://tinyurl.com/SouthGermanOPSD. 
+
+
+
+
+
+
 
 
