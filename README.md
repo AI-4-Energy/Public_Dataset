@@ -50,7 +50,7 @@ Name | Production | Consumption | Country | Prosumer Type | Data Type | RE Type 
 [Uppsala Tidunda](https://tinyurl.com/SchoolTiunda) | :white_check_mark: | :white_check_mark: | Sweden | Non-Residential | JSON+CSV | Solar | :white_check_mark: | 15 Minutes or 1 Hour | 2019 - 2021 | 1 PV Grid; School
 [Open Power System Data](https://data.open-power-system-data.org/household_data/2020-04-15) | :white_check_mark: | :white_check_mark: | Germany | Residential | CSV+SQLite | Solar + Wind | &cross; | 1-15 Minute Resolution | 2014 - 2019 | 11 Households
 [nrgyhub](https://nrgyhub.mdh.se/map) | &cross; | :white_check_mark: | Sweden | Residential + Non-Residential | 
-Andreas T. | &cross; | :white_check_mark: | Sweden | Residential | TODO | TODO | TODO | Hourly | 69 Households
+Andreas T. | &cross; | :white_check_mark: | Sweden | Residential | TODO | TODO | TODO | Hourly | TODO |69 Households
 
 
 
