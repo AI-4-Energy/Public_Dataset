@@ -1,5 +1,5 @@
-# Public Datasets for Production and Consumption
-Here we store information on the public Datasets for Consumption and Production. These information are stored for AI4Energy. 
+# Available Datasets for Production and Consumption
+Here we store information on the available Datasets for consumption and production. These information are stored for AI4Energy. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
