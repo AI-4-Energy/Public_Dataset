@@ -9,11 +9,13 @@ Table of Datasets available:
 Name | Production | Consumption | Country | Prosumer Type | Data Type | RE Type | Battery | Time Resolution | Time Span | Status |  Additional Information
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 [Glava](https://github.com/AI-4-Energy/Dataset) | :white_check_mark: | :x:| Sweden | Industrial | CSV | Solar | :x: | 6s | 2015 - Today | Partly Open Source | 3 PV Grids
-[Uppsala Energiporal](https://energiportalregionuppsala.se/open-data) | :white_check_mark: | :x:| Sweden | Residential + Non-Residential | JSON+CSV | Solar | :x: | 1, 5 Minutes or 1 Hour | 2019 - 2021 | Open Source | 17 Mixed (Residents + Industrial)
+[Uppsala Energiportal](https://energiportalregionuppsala.se/open-data) | :white_check_mark: | :x:| Sweden | Residential + Non-Residential | JSON+CSV | Solar | :x: | 1, 5 Minutes or 1 Hour | 2019 - 2021 | Open Source | 17 Mixed (Residents + Industrial)
 [Uppsala Tidunda](https://tinyurl.com/SchoolTiunda) | :white_check_mark: | :white_check_mark: | Sweden | Non-Residential | JSON+CSV | Solar | :white_check_mark: | 15 Minutes or 1 Hour | 2019 - 2021 | Open Source | 1 School
 [Open Power System Data](https://data.open-power-system-data.org/household_data/2020-04-15) | :white_check_mark: | :white_check_mark: | Germany | Residential | CSV+SQLite | Solar + Wind | :x: | 1-15 Minute Resolution | 2014 - 2019 | Open Source | 11 Residents
 [nrgyhub](https://nrgyhub.mdh.se/map) | :x: | :white_check_mark: | Sweden | Residential + Non-Residential | :x: | :x: | :x: | :x: | :x: | :x: | :x: 
 Private Dataset | :x: | :white_check_mark: | Sweden | Residential | CSV | :x: | :x:| Hourly | 2018 - 2019 | Private |  69 Residents
+
+
 
 
 
